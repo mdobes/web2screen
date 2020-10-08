@@ -11,6 +11,10 @@ Go to folder web2screen
 ```
 cd web2screen
 ```
+Install Chromium
+```
+apt install chromium -y
+```
 Install libs
 ```
 npm install

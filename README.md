@@ -11,6 +11,10 @@ Go to folder web2screen
 ```
 cd web2screen
 ```
+Install libs
+```
+npm install
+```
 Open config.json and edit it
 ```
 {

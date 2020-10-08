@@ -1,0 +1,29 @@
+{
+  "name": "web2screen",
+  "version": "1.0.0",
+  "description": "A simple web server to screenshot websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdobes/web2screen.git"
+  },
+  "keywords": [
+    "web",
+    "screenshot"
+  ],
+  "author": "Michal Dobeš (michalldbs@seznam.cz)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mdobes/web2screen/issues"
+  },
+  "homepage": "https://github.com/mdobes/web2screen#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "puppeteer": "^5.3.1",
+    "request": "^2.88.2"
+  }
+}

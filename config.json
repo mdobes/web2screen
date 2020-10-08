@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "token": "token",
+    "defaults":{
+        "size": "1920,1080",
+        "sleep": 2000
+    }
+}

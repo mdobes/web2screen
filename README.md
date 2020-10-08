@@ -34,3 +34,16 @@ Save PM2 and start it on startup
 ```
 pm2 startup && pm2 save
 ```
+
+
+### How to use?
+```
+GET ipadress.com:port/screenshot
+```
+
+| Parameter | Description                | Example             | Required      |
+|-----------|----------------------------|---------------------|---------------|
+| url       | A valid URL                | https://example.com | Yes           |
+| token     | Security token from config | token               | Yes           |
+| size      | Size of screenshot         | 1920,1080           | No (optional) |
+| sleep     | Miliseconds to load a page | 1000                | No (optional) |

@@ -19,7 +19,7 @@ Install libs
 ```
 npm install
 ```
-Open config.json and edit it
+Open ```config.json``` and edit it
 ```
 {
     "port": 3000, // the port to listen to

@@ -13,7 +13,7 @@ cd web2screen
 ```
 Install Chromium
 ```
-apt install chromium -y
+apt install chromium-browser -y
 ```
 Install libs
 ```
